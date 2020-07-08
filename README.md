@@ -12,5 +12,3 @@
 
 ### 官网：[AcmeCloud](https://www.acmecloud.cc)
 
-### 订阅转换器：[Aclinks.icu](https://aclinks.icu)
-
