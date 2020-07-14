@@ -12,7 +12,7 @@
 
 ### 1. 下载V2RayNG
 
-1. [点击下载](https://yun.nonage.me/s/wm7o69ai)
+1. [点击下载](https://od.nonage.me/home/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%AE%A2%E6%88%B7%E7%AB%AF/Android/V2RayNG/v1.2.13)
 2. 根据你的Android系统架构，下载相应的版本
 
    **2. 打开应用导入订阅链接**

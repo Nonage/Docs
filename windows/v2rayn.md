@@ -10,7 +10,7 @@
 
 ## 如何使用
 
-1. [点击下载 V2RayN](https://yun.nonage.me/s/aotvng82)
+1. [点击下载 V2RayN](https://od.nonage.me/home/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%AE%A2%E6%88%B7%E7%AB%AF/Windows/V2RayN/v3.19)
 2. 解压并打开应用
 
 ![](https://i.loli.net/2020/04/05/IelLtWybfPJsrpS.png)
